@@ -1,0 +1,706 @@
+2022-06-28 09:27:29,969 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:31,146 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:32,321 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:33,472 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:34,786 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:35,926 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:37,086 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:38,276 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:39,487 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:40,666 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:41,891 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:27:43,214 - root - INFO - current date 2023-05-11 earlier than available date 2023-06-12
+2022-06-28 09:28:47,851 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:28:49,117 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:28:50,374 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:28:51,656 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:28:52,899 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:28:54,188 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:28:55,428 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:28:56,665 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:28:57,981 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:28:59,237 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:29:00,469 - root - ERROR - Failed to find element
+Traceback (most recent call last):
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\pages\base_element.py", line 19, in find
+    element = WebDriverWait(self.driver, 1).until(
+  File "C:\Users\T.Ntandika\PycharmProjects\VisaBooking\env\lib\site-packages\selenium\webdriver\support\wait.py", line 87, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x763DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E07A6E+238]
+
+2022-06-28 09:29:02,262 - root - INFO - current date 2023-05-11 earlier than available date 2023-06-12
