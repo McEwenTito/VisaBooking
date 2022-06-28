@@ -1,7 +1,7 @@
 import logging, time, datetime
 from selenium import webdriver
 
-import retry
+import retry, main
 from pages.appointment_page import AppointmentPage
 from pages.continue_actions_page import ContinueActionsPage
 from pages.groups_page import GroupsPage
@@ -58,7 +58,12 @@ appointment_page = AppointmentPage(browser)
 
 
 def drop_calender():
-    appointment_page.date_dropdown.click()
+    try:
+        appointment_page.date_dropdown.click()
+    except:
+        time.sleep(retry.retry_time)
+        main.run()
+
 
 
 def move_calender_right():
@@ -83,13 +88,12 @@ def find_earlier_date():
         earliest_date = {}
         earliest_date["date"] = min(date_dict.keys())
         earliest_date["element"] = date_dict[min(date_dict.keys())]
-        # earliest_date.update({min(date_dict.keys()): date_dict[min(date_dict.keys())]})
-        print(earliest_date)
-        print(f"got date at {datetime.datetime.now()}")
+        print(f"{datetime.datetime.now()}got earlier date at {earliest_date} ")
+        logging.info(f" Found date {earliest_date}")
         return earliest_date
 
     else:
-        print(f"found nothing at {datetime.datetime.now()}, moving on")
+        print(f"{datetime.datetime.now()} found nothing, moving on")
         move_calender_right()
         find_earlier_date()
 
@@ -116,8 +120,10 @@ def book_earlier_date(current_date, available_date):
     if available_date["date"] < current_date:
         available_date["element"].click()
         book_time_and_reschedule(available_date["date"])
+        print(f'booking date {available_date}')
         logging.info(f'booking date {available_date}')
     else:
+        print(f'current date {current_date} earlier than available date {available_date["date"]}')
         logging.info(f'current date {current_date} earlier than available date {available_date["date"]}')
 
 

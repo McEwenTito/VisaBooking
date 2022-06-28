@@ -2,7 +2,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import logging, datetime
 
-logging.basicConfig(filename=datetime.datetime.now().strftime('app_%H_%M_%d_%m_%Y.log'), level=logging.INFO, filemode='w', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename=datetime.datetime.now().strftime('logs/app_%H_%M_%d_%m_%Y.log'), level=logging.INFO, filemode='w', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 
 class BaseElement(object):
@@ -19,12 +19,12 @@ class BaseElement(object):
             element = WebDriverWait(self.driver, 1).until(
                 EC.visibility_of_element_located(locator=self.locator)
             )
-            # logging.info(f"Found Element with text: {element.text}")
+            logging.info(f"Found Element with text: {element.text}")
 
             elements = WebDriverWait(self.driver, 10).until(
                 EC.visibility_of_all_elements_located(locator=self.locator)
             )
-            # logging.info(f"Found Elements with text: {[element.text for element in elements]}")
+            logging.info(f"Found Elements with text: {[element.text for element in elements]}")
             self.web_element = element
             self.web_elements = elements
 
